@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <body>
+	<h1>Aditya Narayan Bhandari</h1>
+	<p>Click <a href="myspace.html">here</a> to go to my space</p>
+        <img src="solar_unedited.jpg" usemap="#imgmap" border="0" align="center"/>
+        <map name="imgmap">
+            <area shape="circle" coords="227,84,19" href="venus.png" target="_blank">
+			<area shape="circle" coords="120,133,24" href="mercury.png" target="_blank">
+			<area shape="circle" coords="429,131,60" href="jupiter.png" target="_blank">
+			<area shape="circle" coords="109,287,40" href="earth.png" target="_blank">
+			<area shape="circle" coords="258,265,30" href="mars.png" target="_blank">
+			<area shape="circle" coords="200,489,50" href="saturn.png" target="_blank">
+			<area shape="circle" coords="490,368,40" href="uranus.png" target="_blank">
+			<area shape="circle" coords="450,523,34" href="neptune.png" target="_blank">
+			<area shape="poly" coords="0,0,115,2,120,33,79,99,5,119" href="https://science.nasa.gov/sun/" target="_blank">
+        </map>
+    </body>
+</html>
